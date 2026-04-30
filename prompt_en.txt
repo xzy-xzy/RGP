@@ -1,0 +1,2 @@
+Write a Python program that conforms to the following samples. You should try to find patterns in the samples, but it is permissible to use the samples directly in your program.
+[samples]
