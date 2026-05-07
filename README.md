@@ -31,3 +31,16 @@ python cg_api_async.py --model [model] --type [type] --api_key [api_key]
 python program_eval_cg.py --model [model] --type [type]
 ```
 Settings can be modified in a similar way to the rule-generation perspective.
+
+## Citation
+```
+@misc{xu2026investigatingexplainablepartitionfreecompositionality,
+      title={Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective}, 
+      author={Ziyao Xu and Cong Wang and Houfeng Wang},
+      year={2026},
+      eprint={2604.27340},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.27340}, 
+}
+```
