@@ -1,5 +1,5 @@
 # RGP
-[ACL2026] Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective
+Dataset and code for the paper [Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective](https://arxiv.org/abs/2604.27340).
 
 ## Dataset Generation
 See `generate_dataset.sh` and `generate_samples.py`. We have saved the generated dataset in the `dataset` folder.
