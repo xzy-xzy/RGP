@@ -34,13 +34,23 @@ Settings can be modified in a similar way to the rule-generation perspective.
 
 ## Citation
 ```
-@misc{xu2026investigatingexplainablepartitionfreecompositionality,
-      title={Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective}, 
-      author={Ziyao Xu and Cong Wang and Houfeng Wang},
-      year={2026},
-      eprint={2604.27340},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2604.27340}, 
+@inproceedings{xu-etal-2026-investigating,
+    title = "Investigating More Explainable and Partition-Free Compositionality Estimation for {LLM}s: A Rule-Generation Perspective",
+    author = "Xu, Ziyao  and
+      Wang, Cong  and
+      Wang, Houfeng",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.409/",
+    doi = "10.18653/v1/2026.acl-long.409",
+    pages = "9043--9060",
+    ISBN = "979-8-89176-390-6",
 }
 ```
